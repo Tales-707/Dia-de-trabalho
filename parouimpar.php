@@ -1,0 +1,3 @@
+<?php
+ParImpar(3);
+?>
